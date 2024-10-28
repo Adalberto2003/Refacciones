@@ -10,6 +10,8 @@ public class Principal {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		
+		System.out.println("ESTE ESPACIO HA SIDO MODIFICADO");
 		// Declaracion de variables
 
 		int id = 0;
